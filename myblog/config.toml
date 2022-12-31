@@ -1,0 +1,4 @@
+baseURL = 'Sakuilim.github.io'
+languageCode = 'en-us'
+title = 'Welcome to Sakuilims website'
+theme = "hello-friend"
